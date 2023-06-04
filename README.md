@@ -1,5 +1,5 @@
 # ASCRB
-The tool is developed for A unified Multi-view-based Joint representation learning for CircRNA Binding Sites prediction
+The tool is developed for Multi-view based attentional feature selection for CircRNA-bindingsite prediction
 # Requirements
 - Python 3.6 (64-bit)
 - Keras 2.2.5 in Python
